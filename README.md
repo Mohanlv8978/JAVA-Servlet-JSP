@@ -1,1 +1,2 @@
-WEB Registration And Login Using HTML,Servlets,MySQL and Jsp 
+WEB BANKING APPLICATION
+Customer Registration And Login Using Servlets, MySQL and JSP. 
